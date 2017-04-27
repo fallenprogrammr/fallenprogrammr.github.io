@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+The internets, they are a changing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amit.patankar@gmail.com](mailto:amit.patankar@gmail.com)
