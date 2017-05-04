@@ -16,6 +16,7 @@ There I was, in Seattle on April 20th and 21st attending what in my view is the 
 
 To say the 16 speakers didn't disappoint is an understatement.
 
+{: .center}
 ![_config.yml]({{ site.baseurl }}/images/theatre-entrance-2.jpg)
 
 #### Warning: fanboy gush!
