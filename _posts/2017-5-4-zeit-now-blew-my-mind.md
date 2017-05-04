@@ -86,6 +86,7 @@ Opened up the browser and there it was, in all its static html glory, accessible
 
 {: .center}
 ![_config.yml]({{ site.baseurl }}/images/zeit-hello-world-in-the-cloud.png)
+
 zeit defaults you to the oss plan, the comparison and pricing page is [here](https://zeit.co/pricing).
 
 To see which deployments are running:
