@@ -80,7 +80,7 @@ now
 > Deployment complete!
 ```
 
-It even copies the url to the clipboard automatically! :heart:
+It even copies the url to the clipboard automatically!
 
 Opened up the browser and there it was, in all its static html glory, accessible to the whole world and that too with a verified certificate.
 
