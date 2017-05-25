@@ -1,5 +1,3 @@
-# No one sings like you anymore
-
 I was pretty bummed when I heard the news that Chris Cornell had passed away, I just didn't realize that his death affected me more than it first seemed to.
 
 I spent that Friday night looking / listening to old Soundgarden and Audioslave songs, then I came across the episode that Chris Cornell did with Marc Maron, how did I miss that? I listen to Marc's podcast from time to time or at least keep tabs on it to see who he is interviewing.
