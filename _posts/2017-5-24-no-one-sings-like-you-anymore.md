@@ -17,11 +17,11 @@ He left a mark on the music world, there were a ton of tributes from musicians a
 
 These are some of the ones that stood out for me:
 
-I can't imagine being on a stage and singing Like a stone, on stage like Taylor Momsen did [The Pretty Reckless tribute to Chris Cornell](https://www.youtube.com/watch?v=Y5UsxLcZ1Cg) 
+I can't imagine being on a stage and singing Like a stone, on stage like Taylor Momsen did. 
+[The Pretty Reckless tribute to Chris Cornell](https://www.youtube.com/watch?v=Y5UsxLcZ1Cg) 
 
-Morgan James did an excellent version of Black Hole Sun, totally made it her own. [Morgan James tribute to Chris Cornell](https://www.youtube.com/watch?v=cHmdTCl4kG8)
+Morgan James did an excellent version of Black Hole Sun, totally made it her own. 
+[Morgan James tribute to Chris Cornell](https://www.youtube.com/watch?v=cHmdTCl4kG8)
 
-Corey Glover from Living Color got choked up performing Blow up the outside world [Living Color tribute to Chris Cornell](https://www.youtube.com/watch?v=YY_BMopoxio)
-
-
-
+Corey Glover from Living Color got choked up performing Blow up the outside world. 
+[Living Color tribute to Chris Cornell](https://www.youtube.com/watch?v=YY_BMopoxio)
