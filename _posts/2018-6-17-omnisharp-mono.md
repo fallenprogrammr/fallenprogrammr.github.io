@@ -3,7 +3,7 @@ layout: post
 title: Omnisharp in visual studio code crashes while opening an asp.net core project
 ---
 
-Opening an asp.net core project on visual studio code for mac was resulting in the error:
+Opening an asp.net core project on visual studio code for mac was resulting in an error.
 
 ```
 Microsoft.Build.Exceptions.InvalidProjectFileException: The imported project "/usr/local/Cellar/mono/5.12.0.226/lib/mono/xbuild/15.0/Microsoft.Common.props" was not found.
